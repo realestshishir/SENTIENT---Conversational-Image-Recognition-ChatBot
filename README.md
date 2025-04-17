@@ -50,7 +50,7 @@ Locally deployed multimodal chatbot that can be used for personal research and f
 Follow these steps to set up and run the SENTIENT chatbot on your local machine: 
 
 
-1. Instal Python 3.7 or higher: Ensure Python is installed on your system. You can download it from python.org.
+1. Install Python 3.7 or higher: Ensure Python is installed on your system. You can download it from python.org.
 
 2. Download & Install Ollama using WSL:
    
