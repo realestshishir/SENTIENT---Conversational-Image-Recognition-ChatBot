@@ -1,0 +1,2 @@
+# SENTIENT - Conversational Image Recognition ChatBot
+ Locally deployed multimodal chatbot that can be used for personal research and findings to a vast corpus of data without internet, leveraging Ollama and LangChain framework. The chatbot seamlessly handles text, images, PDFs, and audio inputs, employing advanced AI models like DeepSeek 7B, Llama 2 (7B & 13B), Mistral 7B, LLaVA, and Whisper AI for natural language understanding and multimodal data processing. It delivers accurate and context-aware responses, showcasing robust capabilities in conversational AI.
