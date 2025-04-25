@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/906ff569-d80d-4a8b-8121-4cb97b536738
 
 # Installation Instructions 
 
-# PREQUISITES:
+# PRE-REQUISITES:
 
  1. Python 3.7 or higher: Ensure Python is installed on your system. You can download it from python.org.
     
